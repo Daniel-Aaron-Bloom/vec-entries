@@ -1,0 +1,17 @@
+[package]
+name = "vec-entries"
+version = "1.0.1"
+authors = ["Daniel Bloom"]
+edition = "2018"
+rust-version = "1.65"
+description = "Entry API for iterating over and removing elements from a `Vec`"
+documentation = "https://docs.rs/vec-entries"
+repository = "https://github.com/Daniel-Aaron-Bloom/vec-entries"
+license = "MIT"
+keywords = ["vec", "entry", "extension"]
+categories = ["data-structures", "no-std"]
+
+[dependencies]
+
+[badges]
+github = { repository = "Daniel-Aaron-Bloom/vec-entries", workflow = "Rust" }
