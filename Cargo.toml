@@ -1,6 +1,6 @@
 [package]
 name = "vec-entries"
-version = "1.0.1"
+version = "1.0.0"
 authors = ["Daniel Bloom"]
 edition = "2018"
 rust-version = "1.65"
